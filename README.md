@@ -1,1 +1,1 @@
-# mern_blog
+# Placeholder
