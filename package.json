@@ -1,0 +1,25 @@
+{
+  "name": "mern_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jtolen543/mern_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jtolen543/mern_blog/issues"
+  },
+  "homepage": "https://github.com/Jtolen543/mern_blog#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dot-env": "^0.0.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.3"
+  }
+}
